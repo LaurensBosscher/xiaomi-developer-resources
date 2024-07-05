@@ -1,4 +1,4 @@
-# Xiaomi Watch, Miband 8,9 (Pro) and Redmi Watch 4 Developer resources 
+# Xiaomi Watch, Miband 8, 9 (Pro) and Redmi Watch 4 Developer resources 
 
 Resources are a bit hard to find since a lot of the documentation is in Chinese or Russian but I've collected what I've been able to find here.
 
@@ -10,6 +10,7 @@ Resources are a bit hard to find since a lot of the documentation is in Chinese 
 
 * [EasyFace (for development + packging)](https://github.com/m0tral/EasyFace)
 * [Sample watch faces in Lua](https://github.com/m0tral/MiWatchLuaWatchfaces)
+* [Instructions for EasyFace](https://github.com/m0tral/EasyFace/wiki)
 * [Telegram community for Mi Fitness Mod (to install custom watch faces + apps)](https://t.me/mi_watch_news)
 
 **App Development:**
