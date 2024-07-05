@@ -5,6 +5,7 @@ Resources are a bit hard to find since a lot of the documentation is in Chinese 
 **Mi Band 8 only:**
 
 * [Custom watch faces](https://amazfitwatchfaces.com/mi-band-8/fresh)
+* [Online editor](https://www.mibandwatchfaces.com/mi_band8_watchface_maker/)
 
 **Watch face development:**
 
