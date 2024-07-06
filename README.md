@@ -9,10 +9,13 @@ Resources are a bit hard to find since a lot of the documentation is in Chinese 
 
 **Watch face development:**
 
+* [Mi Create (Simple, open-source)](https://github.com/ooflet/Mi-Create/tree/main)
 * [EasyFace (for development + packging)](https://github.com/m0tral/EasyFace)
 * [Sample watch faces in Lua](https://github.com/m0tral/MiWatchLuaWatchfaces)
 * [Instructions for EasyFace](https://github.com/m0tral/EasyFace/wiki)
 * [Telegram community for Mi Fitness Mod (to install custom watch faces + apps)](https://t.me/mi_watch_news)
+* [Notify for Xiaomi & Mi Fitness (to upload watchfaces)](https://play.google.com/store/apps/details?id=com.mc.xiaomi1)
+  
 
 **App Development:**
 
